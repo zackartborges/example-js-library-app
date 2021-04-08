@@ -15,3 +15,5 @@ $(document).ready(function(){
   });
 });
 </script>
+
+// http://kenwheeler.github.io/slick/
